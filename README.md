@@ -3,9 +3,8 @@
 <!--
 **jiisuuyaa/jiisuuyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hello+%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
 
-[![히트](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiisuuyaa%2F히트 카운터&카운트_bg=%23FF0909&제목_bg=%23FFD476&아이콘=reddit.svg&아이콘_컬러=%23E7E7E7&제목=jiisuuyaa&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
