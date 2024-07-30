@@ -1,4 +1,4 @@
-## Hi there 👋
+## -👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=360&text=Hello+%21+%F0%9F%8E%88&fontSize=70&fontAlign=50&fontAlignY=50&desc=jisu+repositories&descSize=20&descAlign=50&descAlignY=60)
 
 ## ✨ introduce ! ✨
