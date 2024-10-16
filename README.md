@@ -1,5 +1,5 @@
 ## -👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=360&text=Hello+%21+%F0%9F%8E%88&fontSize=70&fontAlign=50&fontAlignY=50&desc=jisu+repositories&descSize=20&descAlign=50&descAlignY=60)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=360&text=Hello+%21+%F0%9F%8E%88&fontSize=70&fontAlign=50&fontAlignY=50&desc=jisu+repositories&descSize=20&descAlign=50&descAlignY=60](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20jisu😺&fontAlignY=41))
 
 ## ✨ introduce ! ✨
 ![고양이](https://i.imgur.com/ntr1vY2.png)
