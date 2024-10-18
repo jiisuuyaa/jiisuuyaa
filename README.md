@@ -1,9 +1,10 @@
 ## -👋
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20jisu😺&fontAlignY=41)
 
-### AI Engineer, also interested in DevOps!
+## Profile
+Hi🤗 This is jisu sung from 🇰🇷.
 
-## ✨ introduce ! ✨
+## ✨
 ![고양이](https://i.imgur.com/ntr1vY2.png)
 ### 냥
 
